@@ -1,0 +1,4 @@
+export const SpecialisationData = [
+    { id: 0, post: "Développeuse Web Frontend", description: "Je conçois des interfaces utilisateurs modernes, dynamiques et intuitives, en utilisant des technologies telles que React.js et Tailwind CSS. Mon travail met l'accent sur la performance, la responsivité et l'optimisation de l'expérience utilisateur, en collaboration étroite avec les designers."},
+    { id: 1, post: "Intégratrice Web", description: "En tant qu'intégratrice web, je veille à ce que chaque pixel compte et que chaque ligne de code soit propre, structurée et conforme aux normes du web. Je transforme les maquettes des designers en expériences interactives, en intégrant des micro-interactions et des animations fluides.  Mon objectif est de garantir des interfaces engageantes, accessibles et fonctionnelles sur tous les supports."}
+]
